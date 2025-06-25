@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #80d6ba;
-    --secondary-color: ;
+    --primary-color: #e0a260;
+    --secondary-color: #aa8052;
     --accent-color: ;
 }
 
@@ -21,7 +21,7 @@ a {
     font-family: sans-serif;
     font-size: 16px;
     text-decoration: none;
-    background-color: #80d6ba;
+    background-color: var(--primary-color);
     border: none;
     border-radius: 8px;
     color: black;
@@ -35,4 +35,9 @@ a:hover {
 
 a:active {
     background-color: #37a07d;
+}
+
+.home.image {
+    margin: 70px;
+    padding: 32px;
 }
