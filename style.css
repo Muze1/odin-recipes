@@ -6,24 +6,22 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     font-size: 36px;
+    margin-right: 32px auto;
+    padding: 8px;
 }
 
-.button {
-    padding: 1px 6px;
-    border: ;  
+a {
+    font-family: sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #80d6ba;
+    border: none;
+    color: black;
+    padding: 18px;
+    margin: 4px;
+
 }
 
 a:link,
 a:visited,
-a:focus {
-    background: rgb(135, 243, 207);
-    color: black;
-}
-
-a:hover {
-    background: green;
-}
-
-a:active {
-    background: darkgreen;
-}
+a:
