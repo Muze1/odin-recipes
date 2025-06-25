@@ -1,6 +1,6 @@
 :root {
     --primary-color: #e0a260;
-    --secondary-color: #aa8052;
+    --secondary-color: #;
     --accent-color: ;
 }
 
@@ -27,17 +27,18 @@ a {
     color: black;
     padding: 18px;
     margin: 4px;
+    margin-top: 32px;
 }
 
 a:hover {
-    background-color: #47cca0;
+    background-color: #be8950;
 }
-
 a:active {
-    background-color: #37a07d;
+    background-color: #946b3e;
 }
 
 .home.image {
-    margin: 70px;
+    display: block;
+    margin: 200px;
     padding: 32px;
 }
