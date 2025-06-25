@@ -16,12 +16,16 @@ a {
     text-decoration: none;
     background-color: #80d6ba;
     border: none;
+    border-radius: 8px;
     color: black;
     padding: 18px;
     margin: 4px;
-
 }
 
-a:link,
-a:visited,
-a:
+a:hover {
+    background-color: #47cca0;
+}
+
+a:active {
+    background-color: #37a07d;
+}
