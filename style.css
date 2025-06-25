@@ -8,9 +8,9 @@ h1 {
     font-size: 36px;
 }
 
-a.button {
+.button {
     padding: 1px 6px;
-    border: 1px ;  
+    border: ;  
 }
 
 a:link,
