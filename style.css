@@ -1,3 +1,9 @@
+:root {
+    --primary-color: #80d6ba;
+    --secondary-color: ;
+    --accent-color: ;
+}
+
 html {
     background-color: lab(90.42% -0.64 -1.33);
 }
