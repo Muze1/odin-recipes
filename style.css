@@ -8,19 +8,15 @@ h1 {
     font-size: 36px;
 }
 
-ul {
-    display: block;
-    text-decoration: none;
-    outline-color: transparent;
-    line-height: 2;
-    color: black
-    
+a.button {
+    padding: 1px 6px;
+    border: 1px ;  
 }
 
 a:link,
 a:visited,
 a:focus {
-    background: aquamarine;
+    background: rgb(135, 243, 207);
     color: black;
 }
 
